@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1400&color=8FE6A3&center=true&vCenter=true&width=500&lines=Intelligence+is+Beautiful.;The+Matrix+is+code.+Character+is+architecture.)](https://git.io/typing-svg)
 
-<sub>AI ENGINEERING · CYBERSECURITY · TRUSTWORTHY SYSTEMS</sub>
+<sub>AI ENGINEERING · AI SECURITY · TRUSTWORTHY SYSTEMS</sub>
 
 </div>
 
@@ -13,7 +13,7 @@ cyberlily@github:~$ whoami
 Ashley Moore
 
 role   → AI Engineer
-focus  → Cybersecurity, Machine Learning, Trustworthy AI
+focus  → AI Security, Machine Learning, Trustworthy AI
 status → always_learning = true
 
 cyberlily@github:~$ echo $ACCESS
