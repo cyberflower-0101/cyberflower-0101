@@ -12,7 +12,7 @@
 cyberlily@github:~$ whoami
 Ashley Moore
 
-role   → AI Engineer
+role   → Future AI Compliance Leader
 focus  → AI Security, Machine Learning, Trustworthy AI
 status → always_learning = true
 
